@@ -1,5 +1,5 @@
 package irai; 
-$irai::VERSION = '0.001';
+$irai::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -9,7 +9,7 @@ irai - enables L<Future> debugging UI for script
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 DESCRIPTION
 

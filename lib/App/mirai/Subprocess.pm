@@ -1,5 +1,5 @@
 package App::mirai::Subprocess;
-$App::mirai::Subprocess::VERSION = '0.001';
+$App::mirai::Subprocess::VERSION = '0.002';
 use strict;
 use warnings;
 

@@ -3,7 +3,7 @@ package App::mirai;
 use strict;
 use warnings;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =encoding UTF-8
 
@@ -13,7 +13,7 @@ App::mirai - debugging for L<Future>-based code
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 SYNOPSIS
 

@@ -1,5 +1,5 @@
 package App::mirai::Tickit;
-$App::mirai::Tickit::VERSION = '0.001';
+$App::mirai::Tickit::VERSION = '0.002';
 use strict;
 use warnings;
 use utf8;

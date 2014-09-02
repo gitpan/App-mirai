@@ -1,5 +1,5 @@
 package App::mirai::Watcher;
-$App::mirai::Watcher::VERSION = '0.001';
+$App::mirai::Watcher::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -11,7 +11,7 @@ App::mirai::Watcher - event class for L<App::mirai::Future> notifications
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =cut
 

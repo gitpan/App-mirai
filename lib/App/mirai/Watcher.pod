@@ -16,7 +16,7 @@ App::mirai::Watcher - event class for L<App::mirai::Future> notifications
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head2 discard
 

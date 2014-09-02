@@ -1,5 +1,5 @@
 package App::mirai::FutureProxy;
-$App::mirai::FutureProxy::VERSION = '0.001';
+$App::mirai::FutureProxy::VERSION = '0.002';
 use strict;
 use warnings;
 

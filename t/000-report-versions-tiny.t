@@ -66,6 +66,7 @@ eval { $v .= pmver('Test::CheckDeps','0.010') };
 eval { $v .= pmver('Test::Fatal','0.010') };
 eval { $v .= pmver('Test::More','0.98') };
 eval { $v .= pmver('Test::Refcount','0.07') };
+eval { $v .= pmver('Tickit::Async','any version') };
 eval { $v .= pmver('Tickit::DSL','0.021') };
 eval { $v .= pmver('Time::HiRes','any version') };
 eval { $v .= pmver('Variable::Disposition','any version') };

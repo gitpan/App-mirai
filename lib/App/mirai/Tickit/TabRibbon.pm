@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 package App::mirai::Tickit::TabRibbon;
-$App::mirai::Tickit::TabRibbon::VERSION = '0.001';
+$App::mirai::Tickit::TabRibbon::VERSION = '0.002';
 use parent qw(Tickit::Widget::Tabbed::Ribbon);
 
 package

@@ -37,6 +37,7 @@ my %WriteMakefileArgs = (
     "List::UtilsBy" => 0,
     "Mixin::Event::Dispatch" => "1.006",
     "Socket" => "2.000",
+    "Tickit::Async" => 0,
     "Tickit::DSL" => "0.021",
     "Time::HiRes" => 0,
     "Variable::Disposition" => 0,
@@ -52,7 +53,7 @@ my %WriteMakefileArgs = (
     "Test::More" => "0.98",
     "Test::Refcount" => "0.07"
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -75,6 +76,7 @@ my %FallbackPrereqs = (
   "Test::Fatal" => "0.010",
   "Test::More" => "0.98",
   "Test::Refcount" => "0.07",
+  "Tickit::Async" => 0,
   "Tickit::DSL" => "0.021",
   "Time::HiRes" => 0,
   "Variable::Disposition" => 0,

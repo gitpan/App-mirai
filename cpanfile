@@ -4,6 +4,7 @@ requires 'Adapter::Async', '>= 0.011';
 requires 'Variable::Disposition', 0;
 requires 'Future', '>= 0.29';
 requires 'Mixin::Event::Dispatch', '>= 1.006';
+requires 'Tickit::Async', 0;
 requires 'Tickit::DSL', '>= 0.021';
 requires 'JSON::MaybeXS', 0;
 

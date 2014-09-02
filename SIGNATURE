@@ -14,35 +14,35 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 0cc715e681ce73107705b4ea1a830f72ee54322b Changes
+SHA1 e0dd4c68b6135a5d439bf765f47c6339144e844b Changes
 SHA1 9f12ec39942c3375b1101a5454a8fa1360536284 INSTALL
 SHA1 6b50b30fa6f8d063d96e32c9a81f3f82328925f7 LICENSE
 SHA1 69ece55123b7f949fc327db458dfb37fb7e2f395 MANIFEST
-SHA1 88ab08f88a33ccfa79cafdcf7a96c40fb2c78c33 META.json
-SHA1 5cff75079a04630fe49e6e4b76c10c57b091221f META.yml
-SHA1 c9c948b64e53e749d843e51fdfaa22143426d608 Makefile.PL
-SHA1 1b78eb4422c7885086ecf309295c5c65f3ad0b10 README
+SHA1 dc0000cd719a97d7d6d45acc39c9dd97e264d758 META.json
+SHA1 a267dc61ae9e7e3cfac8926204c25e33dbc3e550 META.yml
+SHA1 bcd176f425a735bc3a473a5cb58b26495b6c2ca7 Makefile.PL
+SHA1 95c6342a23441401654ad31c094c3ec664e7ea54 README
 SHA1 3847b612fb5ad718dabe47738a8e2a1b396389b9 bin/mirai
-SHA1 f2bf480204a530c95c861a15e7fed7e3e55474c1 cpanfile
+SHA1 69acdc7a40498fbb2ceb02a369010c0a23002774 cpanfile
 SHA1 7485991992d08934a9ac16392dd01b1f989ef781 dist.ini
 SHA1 7c5e302d969f92e1961e3cc3572fe88bf43f1f7b examples/example.pl
 SHA1 95cb0f2841c952be40809eedb24ed8dd952c0c00 examples/simple-trace.pl
-SHA1 4e5c7b6f31d93cd18867fe7daeb3a15f82d300e2 lib/App/mirai.pm
-SHA1 d778c991881d0fb1015304bb798d0ee21ce009a1 lib/App/mirai/Future.pm
-SHA1 bf4657c28f115f6c1a689cad3ef77d34e05ca195 lib/App/mirai/FutureProxy.pm
-SHA1 272095d9a4415685aa19a99254643135b57afa0b lib/App/mirai/Subprocess.pm
-SHA1 bd066140638c831d43cbed6c7dd97e1be769be40 lib/App/mirai/Tickit.pm
-SHA1 6a921c03aec6f424cd68bb84649b463a2ee591b3 lib/App/mirai/Tickit/TabRibbon.pm
+SHA1 1493fac51d51acbf75a8d3db4a5daad4715b90a9 lib/App/mirai.pm
+SHA1 45e9c1af5fcc0f45c69decf53d8c207fce4f9880 lib/App/mirai/Future.pm
+SHA1 1dc6a290cee2e3ad7838f1ab0461f9e1be98d085 lib/App/mirai/FutureProxy.pm
+SHA1 ad7a03cae0e7bc9ce6a83cd5b7c0ebf698994332 lib/App/mirai/Subprocess.pm
+SHA1 382f5eba95e9e0f6b691504dff69a73795621c4b lib/App/mirai/Tickit.pm
+SHA1 98707bbbda461bea2297357e09bf20e1ab66d684 lib/App/mirai/Tickit/TabRibbon.pm
 SHA1 7523878641b83e8a59b693e65aa04cd0f416f288 lib/App/mirai/Tickit/TabRibbon.pod
-SHA1 c7c4e35bee9d7c893360604ffe37121aa8454137 lib/App/mirai/Tickit/Widget/Logo.pm
+SHA1 faf7e3613630ec9daeef5b77820b9dcab12e3fbb lib/App/mirai/Tickit/Widget/Logo.pm
 SHA1 db4df1f65dd58b4419147404e92a8bb8d2272e98 lib/App/mirai/Tickit/Widget/Logo.pod
-SHA1 1dd494b9cee78460e0f47f39768c4528370a3668 lib/App/mirai/Watcher.pm
-SHA1 c0f6ea2808836b2b15e1fba18d1a369312607a55 lib/App/mirai/Watcher.pod
-SHA1 c31b454b4e3410f93600f7fb2c7cd22d151c0029 lib/irai.pm
+SHA1 c5d1b9c74bb9215d6c0a1ab76d4a0b368cf7a057 lib/App/mirai/Watcher.pm
+SHA1 64bf605460dde5546824634bcb5826c8ea357954 lib/App/mirai/Watcher.pod
+SHA1 5c68ec0a2d8d9158140652b3b453dd2fd6d39fd5 lib/irai.pm
 SHA1 51b9325dbe58a7a60c745bc270e63a43caed984d share/default.style
 SHA1 985d9ded8d8ed7e344a09e52b1402e878e91da28 t/00-check-deps.t
 SHA1 5153243dd8e1a4c40f3061618a72da7bb046d49e t/00-compile.t
-SHA1 f81e159637ffff23bdcc1732199fcfd2d8ceca9c t/000-report-versions-tiny.t
+SHA1 d0bcb4909f8404c5da7ae7f46576d0750c883b2b t/000-report-versions-tiny.t
 SHA1 f80a7981b3218c9370c7a8fa4e2d7bb6a7937bcc t/patched.t
 SHA1 198d1665317c3d91e3bb81f0a3b8dad8d4d66f20 xt/release/common_spelling.t
 SHA1 c6c3c9f7fe12058b4771449dff874b1c450c982c xt/release/mojibake.t
@@ -51,11 +51,11 @@ SHA1 bbcd59d081d9940af5d43337ae85458075933829 xt/release/test-version.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUA6A2AAoJEFKElMNpjtyDudEH/R/uc7D7O5ChDS6quCwURNYu
-dgBKgSyEScM+hL2371vXo8aNZc2OkfNnw4dXtw1vmiYg1E4lHRYHh7Sis339ueOX
-sD3WQmF2Gtnts1yBF2sPXlCaBc/sReFksh+LITlRut9zTiCHmMmKtj1SZ9XEXHLk
-7ScXESEoU/hZXRTrbfFCFWNft+Z6h53gafgWVIF9Kj2FrbAx8iCI3+YFgUVvkJDR
-Pypt9h7U3cDtpqX0srYEPpnZ6L16lHt6sXvVvqnS6K9pg5fY3kk2Ggi1XNiosGwU
-XUlWWs0A7GpZCjhrdxs7kN7yeFZQt57cwe+4Jc3P7a8UZT4sU/QP4Fmgo+IQAFM=
-=QR49
+iQEcBAEBAgAGBQJUBRhHAAoJEFKElMNpjtyDkwoIAN1SQ+srHOuKlrhW6fBi2RR8
+27uaxtEorJGDGWWcLwy4Kbdf6L4+VY5u0m8oMGn8ff3/BJkZpEcIbwvR0SeAwcyP
+qO+5LsQFzr6UyuKS/E4ysQRwzjpa0je3BDnalUh38DGFm6t69MEtueaPndISLPRW
+6uAAF2Z5JJppv1GoJIKLtHCjsxWLZ5bhsloKtWi0fg2jK6R0OgGujYqww6vFpIJx
+vyzJGadnD+leVyO9X6oNAcS5iaEsoj9vRWWs04d8DASes7Zkiqf6fYxX/bw+1v2g
+UPfh9npVztkjULKKT9EZfpv5+x0VWu0jAH6kvzNq/b8PWoH8s2amWBzEQ0teXPA=
+=fT5A
 -----END PGP SIGNATURE-----

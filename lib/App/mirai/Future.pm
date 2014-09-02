@@ -1,5 +1,5 @@
 package App::mirai::Future;
-$App::mirai::Future::VERSION = '0.001';
+$App::mirai::Future::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -9,7 +9,7 @@ App::mirai::Future - injects debugging code into L<Future>
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 DESCRIPTION
 

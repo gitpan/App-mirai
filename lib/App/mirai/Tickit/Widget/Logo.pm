@@ -1,5 +1,5 @@
 package App::mirai::Tickit::Widget::Logo;
-$App::mirai::Tickit::Widget::Logo::VERSION = '0.001';
+$App::mirai::Tickit::Widget::Logo::VERSION = '0.002';
 use strict;
 use warnings;
 use utf8;

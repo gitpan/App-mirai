@@ -46,6 +46,7 @@
             "List::UtilsBy" : "0",
             "Mixin::Event::Dispatch" : "1.006",
             "Socket" : "2.000",
+            "Tickit::Async" : "0",
             "Tickit::DSL" : "0.021",
             "Time::HiRes" : "0",
             "Variable::Disposition" : "0",
@@ -73,6 +74,6 @@
       },
       "homepage" : "http://search.cpan.org/dist/App-mirai/"
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
